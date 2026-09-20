@@ -1,3 +1,7 @@
+## Video Demonstration
+
+[Watch the walkthrough](https://youtu.be/9lNt0j_HtdQ)
+
 # Commercial Smart Facility & Sustainability Manager
 
 Real-time IoT monitoring and AI-dispatched maintenance for high-footfall
